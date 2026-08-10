@@ -21,6 +21,7 @@ public class Example05{
 			    else
 				System.out.print(" ");				    	
 			 }
+			 
 			 System.out.println();
 		}
 	}

@@ -20,6 +20,7 @@ public class Example07{
 							for(int k=1;k<=N;k++)
 							System.out.print(" ");
 						}
+						
 				}
 
 				else{
