@@ -11,7 +11,7 @@ import java.util.Scanner;
  	public static void main(String[] args) {
  		int basicSalary;
  		Scanner scanner=new Scanner(System.in);
- 		System.out.println("Enter Basoc Salary");
+ 		System.out.println("Enter Basic Salary");
  		basicSalary=scanner.nextInt();
  		double grossSalary=0;
  		if(basicSalary<=10000)
