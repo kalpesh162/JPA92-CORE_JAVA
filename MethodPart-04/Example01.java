@@ -50,8 +50,5 @@ public class Example01{
 		System.out.println("Prime");
 		else
 		System.out.println("NOT  Prime");
-
-
-	}
-	
+	}	
 }

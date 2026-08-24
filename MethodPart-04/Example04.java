@@ -29,7 +29,7 @@ public  class Example04  {
    public  static int power(int x,int y){
              int res=1;
    	         while(y>=1){
-                   res=res*y;
+                   res=res*x;
                    y--;
    	         }
 
