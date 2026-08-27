@@ -14,12 +14,14 @@ public class Example01{
 
 			for(int i=1;i<=5;i++){
 				Rock rock1=new Rock();
+
+			    // below code
 			}
 
 			System.out.println("----------------");
 			
 			for(int i=1;i<=5;i++)
-				new Rock();
+				new Rock();             // anonymous object
 
 			
 	}

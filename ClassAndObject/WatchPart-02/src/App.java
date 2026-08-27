@@ -12,5 +12,9 @@ public  class App{
 
 		rolex.displayTime();
 
+		Watch raga=new Watch(3,30,15);
+		raga.displayTime();
+		
+
 	}
 }
