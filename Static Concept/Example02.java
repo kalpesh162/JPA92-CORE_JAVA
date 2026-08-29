@@ -53,11 +53,6 @@ public  class Example02{
 
 		// this call d1.showData() even resolve to Data.showData()
 		// Compiler Data.showData() in that thing not passing this as argument to showData
-
-		
-
-
-
 		Data d2=new Data();
 	}
 }
