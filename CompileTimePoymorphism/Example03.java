@@ -15,9 +15,10 @@ public  class Example03 {
 
 	public static void main(String[] args) {
 			
-		     doAdd(11,22);  
-		     doAdd((byte)11,(byte)22); 
-		     doAdd((short)11,(short)22);
+		     doAdd(11,22);  // int int
+		     doAdd((byte)11,(byte)22);    // 11 byte  22 byte 
+		     doAdd((short)11,(short)22);  // 11 short 22 short
+		     
 			//no suitable method found for doAdd(int,int)
 			/*
 			byte x=11;
