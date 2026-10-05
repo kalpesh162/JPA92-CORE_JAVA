@@ -31,10 +31,8 @@ class Point{
 			return false;
 		}
 }
-
 /*
 // Why we override equals method
-
 public  class java.lang.String{
 
 		@Override
@@ -43,12 +41,9 @@ public  class java.lang.String{
 	  }
 }
 
-
 What exaclty is inheritance
 method Overriding
 UPCASTING
 DOWNCASTING   --> ClassCastException
-
 Why we need to Override ?
-
 */

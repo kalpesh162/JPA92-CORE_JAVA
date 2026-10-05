@@ -17,6 +17,11 @@ class App {
 		// ANd if we to check equality of 2 Object 
 		// And u use equals() then
 		// equals method by default check two Object references 
+
+		// so for your ref type Object Equality
+		// u should override equals method fron an Object class in your class[Type]
+		// provide appropriate implementation
+		
 	}
 	
 }
