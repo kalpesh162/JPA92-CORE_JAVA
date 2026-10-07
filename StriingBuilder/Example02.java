@@ -9,14 +9,10 @@
 	public int capacity()
 
 	@Overridr
-	public String toString(){
-	 
+	public String toString(){	 
 	}
 }
-
 */
-
-
 public  class Example02 {
 
 	public static void main(String[] args) {
@@ -56,7 +52,9 @@ public  class Example02 {
 
 		System.out.println(sb3);
 		System.out.println(sb3.length());
-		System.out.println(sb3.capacity());  //  16 default Capacity
+		System.out.println(sb3.capacity());  //  34 default Capacity
+
+		// NEW CAPCITY = CC * 2 + 2
 
 
 
