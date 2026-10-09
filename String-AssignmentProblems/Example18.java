@@ -32,7 +32,7 @@ class Example18{
 
 		res.deleteCharAt(res.length()-1);
 			res.append(allFirstLetters);
-		 	return String.valueOf(res).trim();
+		 	return String.valueOf(res)	.trim();
 	}
 
 	public static void main(String[] args) {

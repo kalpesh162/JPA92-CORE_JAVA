@@ -19,10 +19,10 @@ public class Example03{
 
 		System.out.println(arr[res]);
 
-		System.out.println(str.length());
+		System.out.println(str.length());  // new NullPointerException();
 
 
-		}catch(Exception e){   // Generic Catch Block
+		}catch(Exception e){   // Generic Catch Block       // Exception e=new NullPointerException();
 
 			e.printStackTrace();
 
