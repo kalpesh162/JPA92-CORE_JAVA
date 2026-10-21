@@ -5,7 +5,7 @@ class Hello {
 
 	 public void f1(){
 
-	 	     class Data{
+	 	     class Data{  // Hello$1Data.class
 	 	     	   int num=11;
 
 	 	     	   public void display(){

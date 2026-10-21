@@ -1,8 +1,6 @@
-
 interface PContent{
 	 void showContent();
 }
-
 class Parcel{
       private String label="ABCD";
 
@@ -23,15 +21,10 @@ class Parcel{
      	return new Content();
      }
 }
-
-
 public class Example04 {
-
-	public static void main(String[] args) {
-			
+	public static void main(String[] args) {		
 			Parcel p1=new Parcel();
 			PContent c1=p1.getContent();
-
 			c1.showContent();
 	}
 	
